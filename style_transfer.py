@@ -6,8 +6,6 @@ mpl.rcParams['axes.grid'] = False
 
 import numpy as np
 import PIL.Image
-import time
-import functools
 import io
 import base64
 

@@ -1,0 +1,13 @@
+tensorflow
+flask
+json
+os
+pathlib
+sys
+matplotlib
+numpy
+PIL
+io
+base64
+opencv-contrib-python
+
